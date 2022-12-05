@@ -1,2 +1,2 @@
-# template-vscode-project
-Project template containing a basic VS Code setup
+# svg-rasterize
+Scripts for batch conversion of vector graphics to PNG and ICO.
